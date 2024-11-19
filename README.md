@@ -12,5 +12,5 @@ numbers not exceeding 2*10^17.
 
 You need to represent a given even number N,
 greater than two, as the sum of two primes a1 and a2. In this case, a1 should be the minimum possible number, and a1 ≤ a2.
-The format of the input data: The input file contains the value of the number N (4 ≤ N ≤ 10^5)
-Output data format: The output file contains a string of two numbers a1 and a2 separated by one or more spaces.
+The format of the input data (file.txt): The input file contains the value of the number N (4 ≤ N ≤ 10^5)
+Output data format (answer.txt): The output file contains a string of two numbers a1 and a2 separated by one or more spaces.
